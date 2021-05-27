@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01-hello-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02-mybatis-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03-proxy-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-mybatis-param/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05-return-result/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06-dynamic-sql/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07-test-mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" />
+</project>
